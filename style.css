@@ -278,6 +278,10 @@ body{
 
 @media screen and (max-width: 700px) {
 
+    body{
+        width: auto;
+    }
+
     .header{
         display: flex;
         justify-content: space-between;
@@ -290,7 +294,7 @@ body{
     }
 
     .content .text h2, p{
-        text-align: center;
+        /* text-align: center; */
     }
 
     .content .text .txt-3{
@@ -327,7 +331,7 @@ body{
     }
 
     .main .body h2, p{
-        text-align: center;
+        /* text-align: center; */
     }
 
     .main .body a{
