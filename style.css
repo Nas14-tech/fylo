@@ -44,6 +44,7 @@ body{
     justify-content: space-between;
     margin: 2rem ;
     padding-bottom: 5rem;
+    overflow: hidden;
     /* margin-bottom: 0; */
 }
 
